@@ -1,0 +1,8 @@
+#empty{
+    height: 55px;
+    border-bottom: 1px solid #CCCCCC;
+}
+#nonempty{
+    border-left: 2px solid #CCCCCC;
+    height: 650px;
+}
