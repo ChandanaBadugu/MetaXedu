@@ -1,0 +1,19 @@
+#maincontainer{
+  width: 100%;
+  display: flex;
+}
+#leftcontainer{
+  flex: 25%;
+  height: 550px;
+  /* background-color: red; */
+}
+#middlecontainer{
+  flex: 50%;
+  height: 550px;
+  /* background-color: green; */
+}
+#rightcontainer{
+  flex: 25%;
+  height: 550px;
+  /* background-color: blue; */
+}
