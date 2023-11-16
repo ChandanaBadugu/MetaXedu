@@ -1,3 +1,21 @@
+# META X EDU platform
+
+EduMetaverse synergizes traditional education with the immersive possibilities of the metaverse. Explore subjects in three-dimensional spaces, fostering creativity and collaboration. With augmented reality and virtual reality, students transcend boundaries, engaging in dynamic, interactive learning. EduMetaverse revolutionizes education by seamlessly blending the physical and virtual realms.
+
+# Tech stack
+
+HTML
+CSS
+Javascript
+Three.js
+React Js
+
+![Image -1](image.png)
+
+![Image -2 Meta world](image-1.png)
+
+![Image -2 Meta Character](image-2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

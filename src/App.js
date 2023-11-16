@@ -8,6 +8,7 @@ import CharacterControllerDemo from './components/world';
 function App() {
   return (
     <>
+    <Nav/>
     <div id='maincontainer'>
       <div id='leftcontainer'>
         <Left/>

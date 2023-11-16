@@ -1,73 +1,135 @@
-#empty{
-    height: 55px;
+#empty {
+  height: 55px;
 }
-#nonempty{
-    border-right: 2px solid #CCCCCC;
-    height: 650px;
+#nonempty {
+  border-right: 2px solid #cccccc;
+  height: 650px;
 }
-#todo{
-    height: 300px;
-    width: 90%;
-    background-color: white;
-    border: 1px solid lightgray;
-    box-shadow: 0px 2px 3px 1px rgba(204,204,204,1);
-    margin: auto;
-    border-radius: 5px;
+#todo {
+  height: 300px;
+  width: 90%;
+  background-color: rgb(255, 252, 252);
+  border: 1px solid lightgray;
+  box-shadow: 0px 2px 3px 1px rgba(204, 204, 204, 1);
+  margin: auto;
+  border-radius: 5px;
 }
-#headingtodo{
-    margin-left: 120px;
-    margin-top: 15px;
-    font-size: 20px;
+#headingtodo {
+  margin-left: 120px;
+  margin-top: 15px;
+  font-size: 20px;
 }
-#input{
-    margin-left: 18px;
-    margin-right: 10px;
+#input {
+  margin-left: 18px;
+  margin-right: 10px;
 }
-input[type=text]{
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    padding: 4px 10px;
+input[type="text"] {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  padding: 4px 10px;
 }
-#addbutton{
-    background-color: #2749F8;
-    border-color: #2749F8;
-    color: white;
-    border-radius: 3px;
+#addbutton {
+  background-color: #2749f8;
+  border-color: #2749f8;
+  color: white;
+  border-radius: 3px;
 }
-#todovalues{
-    margin-top: 30px;
+#todovalues {
+  margin-top: 30px;
 }
-#val1{
-    background-color: white;
-    border: 1px solid #ccc;
-    width: 90%;
-    border-radius: 4px;
-    margin: auto;
-    padding: 8px;
-    padding-left: 15px;
-    margin-bottom: 10px;
+#val1 {
+  background-color: white;
+  border: 1px solid #ccc;
+  width: 90%;
+  border-radius: 4px;
+  margin: auto;
+  padding: 8px;
+  padding-left: 15px;
+  margin-bottom: 10px;
 }
-#spa{
-    float: right;
+#spa {
+  float: right;
 }
-.icon{
-    font-size: 20px;
-    color: red;
-    margin-right: 5px;
-    cursor: pointer;
+.icon {
+  font-size: 20px;
+  color: red;
+  margin-right: 5px;
+  cursor: pointer;
 }
-.icon1{
-    font-size: 20px;
-    color: green;
-    margin-right: 5px;
+.icon1 {
+  font-size: 20px;
+  color: green;
+  margin-right: 5px;
 }
-#news{
-    height: 300px;
-    width: 90%;
-    background-color: white;
-    border: 1px solid lightgray;
-    box-shadow: 0px 2px 3px 1px rgba(204,204,204,1);
-    margin: auto;
-    margin-top: 40px;
-    border-radius: 5px;
+#news {
+  height: 300px;
+  width: 90%;
+  background-color: rgb(79, 78, 78);
+  border: 1px solid lightgray;
+  box-shadow: 0px 2px 3px 1px rgba(204, 204, 204, 1);
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+#todo {
+  background-color: rgba(255, 255, 255, 0.79);
+  /* width: 80%;
+    height: 100%; */
+}
+
+/* #todovalues{
+    height: 20%;
+    width: 80%;
+} */
+
+#addbutton {
+  background-color: rgb(0, 0, 0);
+}
+#headingnews {
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+#news {
+  background-color: rgba(255, 255, 255, 0.749);
+}
+#newsvalues {
+  margin-top: 15px;
+}
+#cir {
+  font-size: 10px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+#news1:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+#news1p {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+#bott {
+  font-size: 10px;
+  margin-left: 32px;
+  line-height: -5px;
+  word-spacing: 1.5px;
+}
+#show {
+  font-size: 14px;
+  color: gray;
+  font-weight: 500;
+  margin-left: 32px;
+}
+#show:hover {
+  cursor: pointer;
+}
+#boticon {
+  color: grey;
+  margin-left: 5px;
 }
